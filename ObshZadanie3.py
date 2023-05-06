@@ -12,3 +12,7 @@ def multiply():
 
 
 print("Произведение введенных чисел: ", multiply())
+
+
+if __name__ == '__main__':
+    multiply()
